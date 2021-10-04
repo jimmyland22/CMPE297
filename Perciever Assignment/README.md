@@ -15,12 +15,15 @@ Using "Perciever - masked language modeling" as a guide: https://colab.research.
 Using the pre-trained Perciever IO language model. Tested out the masked token prediction with great result.
 
 Starting with a text string:
+
 ![Original String](https://github.com/jimmyland22/CMPE297/blob/main/Perciever%20Assignment/original_string.png)
 
-Masked one word: entertaining
+Masked one word: **entertaining**
+
 ![Masked String](https://github.com/jimmyland22/CMPE297/blob/main/Perciever%20Assignment/masked_string.png)
 
 Used Perciever IO to predict the masked word:
+
 ![Predicted String](https://github.com/jimmyland22/CMPE297/blob/main/Perciever%20Assignment/predicted_string.png)
 
  
