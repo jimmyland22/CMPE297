@@ -5,7 +5,12 @@ Implement perceiver ml model for classification in keras
 Using "Image classification with Perciever" example code as a guide: https://keras.io/examples/vision/perceiver_image_classification/
 
 The example used the CIFAR-100 dataset, and I just did a tweak to use the MNIST image set for faster training.
+
 ![Sample MNIST images](https://github.com/jimmyland22/CMPE297/blob/main/Perciever%20Assignment/MnistExamples.png)
+
+Got really good results, 80+ accuracy after 9 epochs. I ran out of GPU time on Colab before epoch 10 can finish:
+
+![Training](https://github.com/jimmyland22/CMPE297/blob/main/Perciever%20Assignment/perciever_mnist.png)
 
 
 
