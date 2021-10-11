@@ -17,3 +17,9 @@ Fine tuning the distilbert language model to do NER. I used the Hugging Face exa
 Fine tuning the T5-Small model for text summarization. I used the Hugging Face example notebook as a guide, and used the Gradio example to implement the UI. Training just 1 Epoch takes a REALLY long time and ran out of compute and memory sometimes. Example summarization using the CMPE 297 Course Description.
 
 ![Summarization Example](https://github.com/jimmyland22/CMPE297/blob/main/Fine%20Tuning%20Assignment/Summarization.png)
+
+
+## Multiple Choice
+Fine tuning the Bert model for multiple choice. I used the Hugging Face example notebook as a guide, and used the Gradio example to implement the UI. I only ran the training for 1 epoch as it takes a really long time.
+
+![Summarization Example](https://github.com/jimmyland22/CMPE297/blob/main/Fine%20Tuning%20Assignment/Multiple.png)
