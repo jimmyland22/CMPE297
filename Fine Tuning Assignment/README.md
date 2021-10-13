@@ -23,3 +23,9 @@ Fine tuning the T5-Small model for text summarization. I used the Hugging Face e
 Fine tuning the Bert model for multiple choice. I used the Hugging Face example notebook as a guide, and used the Gradio example to implement the UI. I only ran the training for 1 epoch as it takes a really long time.
 
 ![Summarization Example](https://github.com/jimmyland22/CMPE297/blob/main/Fine%20Tuning%20Assignment/Multiple.png)
+
+## (5) Sentence Pairs
+Fine tuning the Bert model for semantic equivalence in sentence pairs. I followed the TensorFlow tutorial here: https://www.tensorflow.org/text/tutorials/fine_tune_bert
+It goes much deeper into TenshrFlow code and preprocessing data than the Hugging Face guides.
+
+![Sentence Pair Example](https://github.com/jimmyland22/CMPE297/blob/main/Fine%20Tuning%20Assignment/Sentence_Pairs.png)
