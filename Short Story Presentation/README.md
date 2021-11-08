@@ -1,5 +1,6 @@
 # CMPE297 - Short Story Assignment
-A review and summary of deep learning on tabular data, based on the paper *Deep Neural Networks and Tabular Data: A Survey* by Vadim Borisov, Tobias Leemann, Kathrin Seßler, Johannes Haug, Martin Pawelczyk, Gjergji Kasneci
+A review and summary of deep learning on tabular data, based on the paper **Deep Neural Networks and Tabular Data: A Survey** 
+by Vadim Borisov, Tobias Leemann, Kathrin Seßler, Johannes Haug, Martin Pawelczyk, Gjergji Kasneci
 https://arxiv.org/abs/2110.01889
 
 ## Video Presentation
