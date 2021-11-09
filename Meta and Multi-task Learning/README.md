@@ -4,7 +4,7 @@
 Following tutorial from: https://keras.io/examples/vision/reptile/
 and video tutorial https://www.youtube.com/watch?v=qEHZ1DeBF-M
 
-![ImageReptile](https://github.com/jimmyland22/CMPE297/blob/main/SimCLR%20Assignment/reptile_eval.png)
+![ImageReptile](https://github.com/jimmyland22/CMPE297/blob/main/Meta%20and%20Multi-task%20Learning/reptile_eval.png)
 
 ## Keras MMoE
 Implement Multi-gate Mixture-of-Experts based on code from https://github.com/drawbridge/keras-mmoe
@@ -15,4 +15,4 @@ Results: 6236/6236 [==============================] - 39s 6ms/step - loss: 0.225
 
 ## Avalanche Continual Learning
 Using code examples from: https://github.com/ContinualAI/avalanche
-![ImageofMatrix](https://github.com/jimmyland22/CMPE297/blob/main/SimCLR%20Assignment/avalanche_eval.png)
+![ImageofMatrix](https://github.com/jimmyland22/CMPE297/blob/main/Meta%20and%20Multi-task%20Learning/avalanche_eval.png)
