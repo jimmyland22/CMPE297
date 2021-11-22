@@ -7,7 +7,8 @@ https://arxiv.org/abs/2110.01889
 In this repository
 
 ## Slide Deck
-In this repository
+In this repository and published on Slide Share
+https://www.slideshare.net/JimmyLiang20/deep-neural-networks-and-tabular-data
 
 ## Medium Article
 https://medium.com/@jimmy.liang_66010/deep-learning-with-tabular-data-b2a64f3898a8
